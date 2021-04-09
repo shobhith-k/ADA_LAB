@@ -1,0 +1,40 @@
+
+the 1th fib no is 1
+
+the 2th fib no is 1
+
+the 3th fib no is 2
+
+the 4th fib no is 3
+
+the 5th fib no is 5
+
+the 6th fib no is 8
+
+the 7th fib no is 13
+
+the 8th fib no is 21
+
+the 9th fib no is 34
+
+the 10th fib no is 55
+
+the 11th fib no is 89
+
+the 12th fib no is 144
+
+the 13th fib no is 233
+
+the 14th fib no is 377
+
+the 15th fib no is 610
+
+the 16th fib no is 987
+
+the 17th fib no is 1597
+
+the 18th fib no is 2584
+
+the 19th fib no is 4181
+
+the 20th fib no is 6765

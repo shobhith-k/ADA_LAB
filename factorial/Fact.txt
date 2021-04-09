@@ -1,0 +1,42 @@
+
+The factorial of 0 is 0
+
+The factorial of 2 is 2
+
+The factorial of 4 is 24
+
+The factorial of 6 is 720
+
+The factorial of 8 is 40320
+
+The factorial of 10 is 3628800
+
+The factorial of 12 is 479001600
+
+The factorial of 14 is 1278945280
+
+The factorial of 16 is 2004189184
+
+The factorial of 18 is -898433024
+
+The factorial of 20 is -2102132736
+
+The factorial of 22 is -522715136
+
+The factorial of 24 is -775946240
+
+The factorial of 26 is -1853882368
+
+The factorial of 28 is -1375731712
+
+The factorial of 30 is 1409286144
+
+The factorial of 32 is -2147483648
+
+The factorial of 34 is 0
+
+The factorial of 36 is 0
+
+The factorial of 38 is 0
+
+The factorial of 40 is 0
